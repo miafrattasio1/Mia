@@ -1,0 +1,2 @@
+FLASK_APP=mia.py
+FLASK_DEBUG=1
